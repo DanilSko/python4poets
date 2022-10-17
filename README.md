@@ -1,9 +1,11 @@
-# Python for Poets
+# Python🐍 for Poets📚
 
 Are you ready to explore a new language? Learn to use **basic Python** and **Python for text processing** in 4 sessions. Just like with any other language, coding helps you create something that has not been there before. And the best part is: you can use it to handle and **process textual data** for **your own research** more efficiently. 
 
 The course will start on the **3rd of November** and will take place **every two weeks** from **4:00pm to 6:00pm** (s.t).
-Register [here](https://moodle2.uni-potsdam.de/course/view.php?id=3468) until October 21. This is a Moodle.UP link, requires registration with your Uni Potsdam account)
+
+📝 Register [here](https://moodle2.uni-potsdam.de/course/view.php?id=3468) until 🔜 October 21. 
+⚠️ This is a Moodle.UP link which requires registration with your Uni Potsdam account)
 
 ## Course outline:
 
